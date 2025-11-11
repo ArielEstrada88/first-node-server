@@ -3,7 +3,7 @@ const app = express();
 const PORT = 3000;
 // Root Endpoint(HOME Endpoint)
 app.get("/", (req, res) => {
-    res.send("Hello World!");
+    res.send("Goofy Rooster!");
 });
 //Route
  
